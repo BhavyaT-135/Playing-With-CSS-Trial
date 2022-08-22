@@ -6,7 +6,7 @@ This repository contains sample CSS animations, different ways of enriching your
 
 ## Animations Created Using HTML/CSS:
 
-* Animated Tea Cup
-* Creative Loading
-* Cursor Smilie
-* Spiral Loader
+- [x] Animated Tea Cup
+- [x] Creative Loading
+- [x] Cursor Smilie
+- [x] Spiral Loader
