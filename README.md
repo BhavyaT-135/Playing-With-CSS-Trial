@@ -11,4 +11,4 @@ This repository contains sample CSS animations, different ways of enriching your
 - [x] Cursor Smilie
 - [x] Spiral Loader
 - [x] Glowing Tubelight
-- [ ] Endless Road
+- [x] Endless Road
