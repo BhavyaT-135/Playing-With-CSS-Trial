@@ -12,3 +12,4 @@ This repository contains sample CSS animations, different ways of enriching your
 - [x] Spiral Loader
 - [x] Glowing Tubelight
 - [x] Endless Road
+- [ ] Rain Animation
