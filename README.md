@@ -14,3 +14,4 @@ This repository contains sample CSS animations, different ways of enriching your
 - [x] Endless Road
 - [x] Rain Lightning Animation
 - [ ] Moving Car
+- [ ] Animated Clock
