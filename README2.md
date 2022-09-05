@@ -1,1 +1,0 @@
-# This README file contains information for some basic known CSS animations.
