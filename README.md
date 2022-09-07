@@ -18,4 +18,4 @@ This repository contains sample CSS animations, different ways of enriching your
 - [ ] Moving Car
 - [ ] Animated Clock
 - [ ] AnimeJs
-- [ ] SVG Elastic Line
+
