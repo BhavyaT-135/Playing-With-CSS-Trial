@@ -15,7 +15,4 @@ This repository contains sample CSS animations, different ways of enriching your
 - [x] Glowing Tubelight
 - [x] Endless Road
 - [x] Rain Lightning Animation
-- [ ] Moving Car
-- [ ] Animated Clock
-- [ ] AnimeJs
 
