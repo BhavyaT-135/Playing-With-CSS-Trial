@@ -1,4 +1,4 @@
-# Playing with HTML/CSS ✨
+# Playing with HTML/CSS - Animations ✨
 
 This repository contains sample CSS animations, different ways of enriching your projects with cool graphics, etc. Just my way of taking a break from intense programming! Exploring the fun side of CSS! 
 
