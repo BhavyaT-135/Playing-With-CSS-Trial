@@ -2,6 +2,8 @@
 
 This repository contains sample CSS animations, different ways of enriching your projects with cool graphics, etc. Just my way of taking a break from intense programming! Exploring the fun side of CSS! 
 
+**CSS** - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
+
 ![Css gif](https://user-images.githubusercontent.com/55613637/185463048-600999ad-7d2d-41d5-a9eb-42b560e26b3c.gif)
 
 ![Css gif 2](https://blog.stackfindover.com/wp-content/uploads/2021/09/Pure-CSS-Submarine-Animation.gif)
