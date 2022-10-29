@@ -10,6 +10,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **NodeJS** - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.
 
+**Front-End Development** - A front-end developer creates websites and applications using web languages such as HTML, CSS, and JavaScript that allow users to access and interact with the site or app.
+
 ![Css gif](https://user-images.githubusercontent.com/55613637/185463048-600999ad-7d2d-41d5-a9eb-42b560e26b3c.gif)
 
 ![Css gif 2](https://blog.stackfindover.com/wp-content/uploads/2021/09/Pure-CSS-Submarine-Animation.gif)
