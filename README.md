@@ -28,6 +28,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 ![Css gif 2](https://blog.stackfindover.com/wp-content/uploads/2021/09/Pure-CSS-Submarine-Animation.gif)
 
+![CSS-Animation-Time-of-Day](https://user-images.githubusercontent.com/55613637/200576944-34d8b76d-aa7f-4df6-8fb7-d0460f2f1387.gif)
+
 ## Animations Created Using HTML/CSS:
 
 - [x] Animated Tea Cup
