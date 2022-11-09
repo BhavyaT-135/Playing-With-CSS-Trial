@@ -30,6 +30,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 ![CSS-Animation-Time-of-Day](https://user-images.githubusercontent.com/55613637/200576944-34d8b76d-aa7f-4df6-8fb7-d0460f2f1387.gif)
 
+![1](https://user-images.githubusercontent.com/55613637/200907382-a972696a-2b4f-4af1-a18c-4d02b835f791.gif)
+
 ## Animations Created Using HTML/CSS:
 
 - [x] Animated Tea Cup
