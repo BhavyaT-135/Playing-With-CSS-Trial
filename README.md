@@ -1,5 +1,6 @@
 # Playing with HTML/CSS - Animations ✨
 ### Link to my portfolio: https://bhavyat-135.github.io/Portfolio-ReactJS/
+### Link to GitHub: https://github.com/BhavyaT-135/
 
 This repository contains sample CSS animations, different ways of enriching your projects with cool graphics, etc. Just my way of taking a break from intense programming! Exploring the fun side of CSS! Plus, the animations keep getting sicker!
 
