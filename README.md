@@ -3,6 +3,7 @@
 ### Link to GitHub: https://github.com/BhavyaT-135/
 ### Link to Medium Profile: https://medium.com/@bhavyatewari.13.5
 ### Link to Twitter Profile: https://twitter.com/BhavyaTewari1
+### Link to LinkedIn: https://www.linkedin.com/in/bhavyatewari/
 
 This repository contains sample CSS animations, different ways of enriching your projects with cool graphics, etc. Just my way of taking a break from intense programming! Exploring the fun side of CSS! Plus, the animations keep getting sicker!
 
