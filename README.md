@@ -5,6 +5,7 @@
 ### Link to Medium Profile: https://medium.com/@bhavyatewari.13.5
 ### Link to Twitter Profile: https://twitter.com/BhavyaTewari1
 ### Link to LinkedIn: https://www.linkedin.com/in/bhavyatewari/
+### Link to Tealfeed: https://tealfeed.com/bhavya_tewari
 
 ![image](https://user-images.githubusercontent.com/55613637/202769723-b4f86d46-b582-4bf7-b7e6-ee01ae6392ca.png)
 
