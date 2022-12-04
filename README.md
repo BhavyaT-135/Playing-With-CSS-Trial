@@ -7,8 +7,6 @@
 ### Link to LinkedIn: https://www.linkedin.com/in/bhavyatewari/
 ### Link to Tealfeed: https://tealfeed.com/bhavya_tewari
 
-![image](https://user-images.githubusercontent.com/55613637/202769723-b4f86d46-b582-4bf7-b7e6-ee01ae6392ca.png)
-
 This repository contains sample CSS animations, different ways of enriching your projects with cool graphics, etc. Just my way of taking a break from intense programming! Exploring the fun side of CSS! Plus, the animations keep getting sicker!
 
 **CSS** - Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript.
