@@ -23,7 +23,7 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Back-End Development** -  Back-end development means working on server-side software, which focuses on everything you can't see on a website. Back-end developers ensure the website performs correctly, focusing on databases, back-end logic, application programming interface (APIs), architecture, and servers.
 
-**Advantages of CSS** :
+### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
 - More formatting options.
