@@ -41,13 +41,3 @@ This repository contains sample CSS animations, different ways of enriching your
 
 ![1](https://user-images.githubusercontent.com/55613637/200907382-a972696a-2b4f-4af1-a18c-4d02b835f791.gif)
 
-## Animations Created Using HTML/CSS:
-
-- [x] Animated Tea Cup
-- [x] Creative Loading
-- [x] Cursor Smilie
-- [x] Spiral Loader
-- [x] Glowing Tubelight
-- [x] Endless Road
-- [x] Rain Lightning Animation
-
