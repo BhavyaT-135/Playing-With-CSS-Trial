@@ -1,5 +1,5 @@
 # Playing with HTML/CSS - Animations ✨
-## Socials ✨
+## My Socials ✨
 ### Link to my portfolio: https://bhavyat-135.github.io/Portfolio-ReactJS/
 ### Link to GitHub: https://github.com/BhavyaT-135/
 ### Link to Medium Profile: https://medium.com/@bhavyatewari.13.5
