@@ -6,7 +6,7 @@
 ### Link to Twitter Profile: https://twitter.com/BhavyaTewari1
 ### Link to LinkedIn: https://www.linkedin.com/in/bhavyatewari/
 ### Link to Tealfeed: https://tealfeed.com/bhavya_tewari
-### Link to Resume: https://drive.google.com/file/d/15ltvORfDeAToKHIQIbHnO3u2g7BKmAKA/view?usp=sharing
+### Link to Resume: https://drive.google.com/file/d/1B1WL5vKb1__Yo_OpREMhhroviIbSTT3N/view?usp=sharing
 <br></br>
 
 This repository contains sample CSS animations, different ways of enriching your projects with cool graphics, etc. Just my way of taking a break from intense programming! Exploring the fun side of CSS! Plus, the CSS animations keep getting sicker!
