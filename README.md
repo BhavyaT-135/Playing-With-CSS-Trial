@@ -1,4 +1,4 @@
-# Playing with HTML/CSS - Animations ✨
+# Playing with HTML/CSS - Animations and Design✨
 ## My Socials ✨
 ### Link to my portfolio: https://bhavyat-135.github.io/Portfolio-ReactJS/
 ### Link to GitHub: https://github.com/BhavyaT-135/
