@@ -35,6 +35,7 @@ This repository contains sample CSS animations, different ways of enriching your
 - Faster page speed.
 - Quicker developer time.
 
+## Day-Night CSS
 ![Css gif](https://user-images.githubusercontent.com/55613637/185463048-600999ad-7d2d-41d5-a9eb-42b560e26b3c.gif)
 
 ![Css gif 2](https://blog.stackfindover.com/wp-content/uploads/2021/09/Pure-CSS-Submarine-Animation.gif)
@@ -44,5 +45,3 @@ This repository contains sample CSS animations, different ways of enriching your
 ![1](https://user-images.githubusercontent.com/55613637/200907382-a972696a-2b4f-4af1-a18c-4d02b835f791.gif)
 
 ![keyboard](https://user-images.githubusercontent.com/55613637/213982334-652863d1-4499-470e-b10e-18d835adff9f.gif)
-
-
