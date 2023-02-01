@@ -17,6 +17,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **ReactJS** - React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
 
+**NextJS** - Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites.
+
 **NodeJS** - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.
 
 **Web Development** - Web development is the work involved in developing a website for the Internet (World Wide Web) or an intranet (a private network). Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.
