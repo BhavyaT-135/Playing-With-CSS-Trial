@@ -2,6 +2,7 @@
 ## My Socials and Blog Pages ✨
 ### Link to my portfolio: https://bhavyat-135.github.io/Portfolio-ReactJS/
 ### Link to GitHub: https://github.com/BhavyaT-135/
+### Link to Blogspot: https://tewarib.blogspot.com/
 ### Link to Medium Profile: https://medium.com/@bhavyatewari.13.5
 ### Link to Twitter Profile: https://twitter.com/BhavyaTewari1
 ### Link to LinkedIn: https://www.linkedin.com/in/bhavyatewari/
