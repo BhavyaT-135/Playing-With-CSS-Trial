@@ -53,7 +53,7 @@ This repository contains sample CSS animations, different ways of enriching your
 ## Loading
 ![1](https://user-images.githubusercontent.com/55613637/214908826-156d4c59-5d9d-44d2-be82-331fa6383f47.gif)
 
-## Eclipse
+## Solar Eclipse
 ![behind-the-sun](https://user-images.githubusercontent.com/55613637/220704622-518f65bd-0b9a-44e6-822e-cef8227a3ef4.gif)
 
 ## Christmas
