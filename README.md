@@ -56,3 +56,4 @@ This repository contains sample CSS animations, different ways of enriching your
 ## Eclipse
 ![behind-the-sun](https://user-images.githubusercontent.com/55613637/220704622-518f65bd-0b9a-44e6-822e-cef8227a3ef4.gif)
 
+![X-Mas](https://user-images.githubusercontent.com/55613637/225415759-2f8c4ce7-6bf6-4757-afb9-d3de39978093.gif)
