@@ -30,6 +30,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Full-Stack Development** - Full stack development is the end-to-end development of applications. It includes both the front end and back end of an application.
 
+**Devops** - DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
