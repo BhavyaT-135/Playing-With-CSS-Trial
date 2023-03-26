@@ -32,6 +32,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Devops** - DevOps is the combination of cultural philosophies, practices, and tools that increases an organization's ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes.
 
+**IoT** - The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
