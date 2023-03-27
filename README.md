@@ -34,6 +34,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **IoT** - The Internet of Things (IoT) describes the network of physical objects—“things”—that are embedded with sensors, software, and other technologies for the purpose of connecting and exchanging data with other devices and systems over the internet.
 
+**Web3** - Web3 has become a catch-all term for the vision of a new, better internet. At its core, Web3 uses blockchains, cryptocurrencies, and NFTs to give power back to the users in the form of ownership.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
