@@ -36,6 +36,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Web3** - Web3 has become a catch-all term for the vision of a new, better internet. At its core, Web3 uses blockchains, cryptocurrencies, and NFTs to give power back to the users in the form of ownership.
 
+**Cloud Computing** - Cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
