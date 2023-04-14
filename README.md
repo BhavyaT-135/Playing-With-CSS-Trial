@@ -40,6 +40,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Artificial Intelligence** - Artificial intelligence (AI) is intelligence demonstrated by machines, as opposed to intelligence of humans and other animals. Example tasks in which this is done include speech recognition, computer vision, translation between (natural) languages, as well as other mappings of inputs.
 
+**Machine Learning** - Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
