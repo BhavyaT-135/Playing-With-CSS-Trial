@@ -18,6 +18,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **ReactJS** - React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.
 
+**AngularJS** - AngularJS is a discontinued free and open-source JavaScript-based web framework for developing single-page applications. It was maintained mainly by Google and a community of individuals and corporations.
+
 **NextJS** - Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites.
 
 **NodeJS** - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.
