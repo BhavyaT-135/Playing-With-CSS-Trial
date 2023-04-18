@@ -46,6 +46,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Blockchain** - Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system. A blockchain is essentially a digital ledger of transactions that is duplicated and distributed across the entire network of computer systems on the blockchain.
 
+**Cryptocurrency** - A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
