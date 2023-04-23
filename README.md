@@ -50,6 +50,8 @@ This repository contains sample CSS animations, different ways of enriching your
 
 **Cryptocurrency** - A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it.
 
+**NFT** - A non-fungible token is a unique digital identifier that cannot be copied, substituted, or subdivided, that is recorded in a blockchain, and that is used to certify ownership and authenticity.
+
 ### Advantages of CSS :
 - Easier to maintain and update.
 - Greater consistency in design.
