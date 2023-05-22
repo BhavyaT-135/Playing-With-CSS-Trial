@@ -80,3 +80,7 @@ This repository contains sample CSS animations, different ways of enriching your
 
 ## Christmas
 ![X-Mas](https://user-images.githubusercontent.com/55613637/225415943-0369297d-2161-49a9-8d88-60deff52e35d.gif)
+
+## Loader
+![loader](https://github.com/BhavyaT-135/Playing-With-CSS-Trial/assets/55613637/86eba346-3183-4fb0-904e-16e08d68ee24)
+
