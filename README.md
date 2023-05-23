@@ -84,3 +84,5 @@ This repository contains sample CSS animations, different ways of enriching your
 ## Loader
 ![loader](https://github.com/BhavyaT-135/Playing-With-CSS-Trial/assets/55613637/86eba346-3183-4fb0-904e-16e08d68ee24)
 
+## Spinners
+![spinners](https://github.com/BhavyaT-135/Playing-With-CSS-Trial/assets/55613637/e20e5c93-76f4-49dd-8182-ce2af92a4499)
